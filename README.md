@@ -1,4 +1,5 @@
 # DROPSHOP
 DROPSHOP | ODT | (Vending Machine) ‪@BITSDesignSchoolMumbai‬
 
-![image](https://github.com/user-attachments/assets/95da12f3-d3ed-4a23-a2ee-f29b722fab90)
+![Untitled](https://github.com/user-attachments/assets/638a7f30-8ca1-43ab-ba34-7521ff512e0e)
+
